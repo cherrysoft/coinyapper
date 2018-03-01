@@ -4,6 +4,9 @@ Quick and dirty coin monitor in Python
 # Configuration
 The configuration, at present, is simply to manage the display headings for the table.
 
+# Installation
+pip install -r requirements.txt
+
 # The docker version
 If you prefer to run the app inside a container just clone the repo, build the container and run the app inside the container (see below).
 
